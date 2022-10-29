@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**aaditshukla98710/aaditshukla98710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aadit Shukla from India,Punjab . I am currently pursuing B.tech CSE.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
