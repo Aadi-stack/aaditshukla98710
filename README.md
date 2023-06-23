@@ -4,6 +4,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Aadit Shukla</h1>
+<div id="badges" align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-github-aaditshukla98710&color=blueviolet" alt=""/>
+ </div>
+
 
 <h3 align="center">I’m currently learning Machine Learning/Deep Learning/NLP/Computer Vision</h3>
 
